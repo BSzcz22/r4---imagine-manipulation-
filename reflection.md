@@ -8,7 +8,7 @@ Self Evaluation Rubric
 
 ### Understanding (CiE) 
 
-The skills this project focused on were: 
+The skills this project focused on were: This project mainly focused on functions, variables, and loops.
 
 My project exhibits
 
